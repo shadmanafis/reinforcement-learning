@@ -1,0 +1,21 @@
+Overview
+Reinforcement learning for NLP
+2018, Medium, Deep Learning for NLP: An Overview of Recent Trends
+2018, ACL, Deep Reinforcement Learning for NLP
+Stanford CS224n & d
+Natural Language Processing with Deep Learning
+Deep Learning for Natural Language Processing
+Awesome repo
+Awesome RF for NLP
+Teaching material
+2017, Colorado CS, Reinforcement Learning for NLP
+2017, Colorado CS, Advanced Machine Learning for NLP
+Reading
+Done
+Now
+2018, Medium, Deep Learning for NLP: An Overview of Recent Trends
+Later
+2014, Stanford, A Fast and Accurate Dependency Parser using Neural Networks
+2015, Arxiv, Learning to Search Better than Your Teacher
+2017, ICLR, LEARNING TO COMPOSE WORDS INTO SENTENCES WITH REINFORCEMENT LEARNING
+2018, NeurIPS, Iterative Value-Aware Model Learning
